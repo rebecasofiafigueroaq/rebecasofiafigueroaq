@@ -1,6 +1,6 @@
 ### REBECA SOFÍA FIGUEROA QUINTO 
-### Ingeniera de Sistemas :computer:
-## Roles de TI en los que he trabajado: Auxiliar de Proyectos TI y Soporte N1 - N3 
+### :computer: Ingeniera de Sistemas 
+## :computer: Roles de TI en los que he trabajado: Auxiliar de Proyectos TI y Soporte N1 - N3 
 
 <!--
 **rebecasofiafigueroaq/rebecasofiafigueroaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
